@@ -16,3 +16,5 @@ Hello!<br>👋 I'm a French junior developer<br>👀 looking for an apprenticesh
 [![](https://visitcount.itsvg.in/api?id=aReynier&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![](https://github-profile-trophy.vercel.app/?username=aReynier&theme=radical&no-frame=false&no-bg=false&margin-w=4)
