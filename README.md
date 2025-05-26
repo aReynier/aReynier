@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello!<br>👋 I'm a French junior developer<br>👀 looking for an apprenticeship in application development<br>🚆 mobile in the Hauts-de-France region<br>⚛️ specialized in JavaScript/React<br>🔭 currently exploring .NET and C# languages.
+Hello!<br>👋 I'm a French junior developer<br>👀 looking for an apprenticeship in data field<br>🚆 mobile in the Hauts-de-France region<br>⚛️ specialized in JavaScript/React<br>🔭 currently exploring .NET and C# languages.
 
 
 ## 🌐 Socials:
